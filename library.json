@@ -1,6 +1,6 @@
 {
     "name": "htcw_esp_lcd_panel_ili9488",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Provides support for the ILI9341 display device w/ the ESP LCD Panel API",
     "keywords": ["tft","ili9488","graphics","ESP32"],
     "authors": {
